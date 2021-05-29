@@ -1,9 +1,9 @@
-# Note Taker
+# Note Taker and Reminder Application
 
 
-A simple web application for note taking  using MySql database and *JAVA* as back-end , applying ORM principles of <b>Hibernate Framework</b>.
+A simple web application for note taking  and triggering reminders using MySql database and *JAVA* as back-end , applying ORM principles of <b>Hibernate Framework</b>.
 
-## Tools & Technologies used :performing_arts:
+## Technology Stack:
 
 ### *Front-end* :computer:
 
