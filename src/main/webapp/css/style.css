@@ -1,0 +1,54 @@
+.primary-bg{
+    background-color:#673ab7;
+}
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  
+  color:rgb(0,0,0);
+}
+
+.chints{
+	color:rgb(0,0,0);
+}
+
+
+
+.bg {
+	
+  background-image: url("https://previews.123rf.com/images/onblast/onblast1702/onblast170200010/71130760-writer-writing-on-paper-sheet-vector-illustration.jpg");
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+}
+.bg2{
+	
+  background-image: url("https://previews.123rf.com/images/onblast/onblast1702/onblast170200010/71130760-writer-writing-on-paper-sheet-vector-illustration.jpg");
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+ 
+  
+}

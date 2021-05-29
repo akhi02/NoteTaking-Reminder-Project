@@ -1,0 +1,25 @@
+.primary-bg{
+    background-color:#673ab7;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Just Another Hand', cursive;
+  color:#673ab7!important;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://previews.123rf.com/images/vladwel/vladwel1701/vladwel170100035/69596496-writer-writing-on-paper-sheet-vector-illustration-flat-cartoon-person-hands-with-pen-on-working-tabl.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
