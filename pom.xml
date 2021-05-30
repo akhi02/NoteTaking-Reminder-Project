@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>NoteTaker</artifactId>
+    <artifactId>NotifierApplication</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -96,7 +96,7 @@
 			    <version>2.2</version>
 			    <configuration>
 			        <url>http://localhost:8081</url>
-			        <path>/NoteTaker</path>
+			        <path>/NotifierApplication</path>
                     <port>8081</port>
 			    </configuration>
 			</plugin>
